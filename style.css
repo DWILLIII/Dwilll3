@@ -1,0 +1,75 @@
+body {
+    background-color: navy;
+}
+
+#Introduction {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Helvetica;
+    background-image: url(Images/Me.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 15%;
+    background-color: black;
+}
+
+#Name {
+    font-size: 500%;
+}
+
+#Origin {
+    font-size: 25px;
+    color: white;
+}
+
+.clubs {
+    font-size: 25px;
+    margin: 10px;
+    font-family: Helvetica;
+    color: white;
+}
+
+#Ambitions {
+    font-size: 25px;
+    color: white;
+}
+
+.goals {
+    font-size: 25px;
+    margin: 10px;
+    color: white;
+}
+
+.Main {
+    color: white;
+    background-color: black;
+}
+
+.Success {
+    font-size: 25px;
+    color: white;
+}
+
+.Awards {
+    font-size: 25px;
+    color: white;
+    margin: 10px;
+}
+
+.awardPics {
+    width: 300px;
+}
+
+#Enjoyment {
+    font-size: 25px;
+    color: white;
+}
+
+.hobby {
+    width: 200px;
+}
+
+.contact {
+    width: 100px;
+}
